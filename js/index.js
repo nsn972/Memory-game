@@ -14,25 +14,25 @@ var cardTurnOnRandom = function() {
 
   if (x < 25) {
     cardTurnOn('card1', 'red');
-    timeCard('card1', 1000, '#FF9999');
+    timeCard('card1', 1000, '#FFCCCC');
 
   }
 
   if (x < 50 && x > 25) {
     cardTurnOn('card2', 'green');
-    timeCard('card2', 1000, '#80C080');
+    timeCard('card2', 1000, '#CCE6CC');
 
   }
 
   if (x < 75 && x > 50) {
     cardTurnOn('card3', 'blue');
-    timeCard('card3', 1000, '#94DBFF');
+    timeCard('card3', 1000, '#CCCCFF');
 
   }
 
   if (x < 100 && x > 75) {
     cardTurnOn('card4', 'yellow');
-    timeCard('card4', 1000, '#FFFFB2');
+    timeCard('card4', 1000, '#FFFFCC');
 
   }
 
