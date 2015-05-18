@@ -35,30 +35,30 @@ h1 {
 
 #card1 {
  background-color:#FFCCCC;
--webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+-webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #card2 {
   background-color: #CCE6CC;
-  -webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+ -webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #card3 {
   background-color: #CCCCFF;
-  -webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+ -webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #card4 {
   background-color: #FFFFCC;
-  -webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+ -webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #start_game_btn {
