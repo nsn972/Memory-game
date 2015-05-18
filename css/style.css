@@ -34,29 +34,45 @@ h1 {
 }
 
 #card1 {
-  background-color: #FFCCCC;
+ background-color:#FFCCCC;
+-webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #card2 {
   background-color: #CCE6CC;
+  -webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #card3 {
   background-color: #CCCCFF;
+  -webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #card4 {
   background-color: #FFFFCC;
+  -webkit-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+-moz-box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
+box-shadow: inset -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #start_game_btn {
-  color: white;
-  background-color: purple;
+ background: rgba(203,96,179,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(203,96,179,1) 0%, rgba(168,0,119,1) 0%, rgba(184,44,145,1) 42%, rgba(193,70,161,1) 67%, rgba(219,54,164,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(203,96,179,1)), color-stop(0%, rgba(168,0,119,1)), color-stop(42%, rgba(184,44,145,1)), color-stop(67%, rgba(193,70,161,1)), color-stop(100%, rgba(219,54,164,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(203,96,179,1) 0%, rgba(168,0,119,1) 0%, rgba(184,44,145,1) 42%, rgba(193,70,161,1) 67%, rgba(219,54,164,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(203,96,179,1) 0%, rgba(168,0,119,1) 0%, rgba(184,44,145,1) 42%, rgba(193,70,161,1) 67%, rgba(219,54,164,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(203,96,179,1) 0%, rgba(168,0,119,1) 0%, rgba(184,44,145,1) 42%, rgba(193,70,161,1) 67%, rgba(219,54,164,1) 100%);
+background: radial-gradient(ellipse at center, rgba(203,96,179,1) 0%, rgba(168,0,119,1) 0%, rgba(184,44,145,1) 42%, rgba(193,70,161,1) 67%, rgba(219,54,164,1) 100%);
+color:white;
   pading: 5px;
   width: 30%;
-  border-style: solid;
-  border-width: 2px;
-  border-color: black;
+  height:80px;
   border-radius: 10px;
   box-shadow: 5px 5px 5px #888888;
   font-size: xx-large;
