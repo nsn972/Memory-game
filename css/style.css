@@ -1,4 +1,6 @@
-body {}
+body {
+  background-color:black;
+}
 
 h1 {
   border-radius: 25px;
@@ -8,7 +10,7 @@ h1 {
   background-color: purple;
   height: 50px;
   margin: auto;
-  box-shadow: 10px 10px 5px #888888;
+/*  box-shadow: 10px 10px 5px #888888; */
 }
 
 #container {
@@ -35,30 +37,25 @@ h1 {
 
 #card1 {
  background-color:#FFCCCC;
--webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
 }
 
 #card2 {
   background-color: #CCE6CC;
- -webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+ 
 }
 
 #card3 {
   background-color: #CCCCFF;
- -webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+
 }
 
 #card4 {
   background-color: #FFFFCC;
- -webkit-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
--moz-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
-box-shadow: -1px 2px 29px 10px rgba(136,136,136,1);
+ 
+}
+
+card5{
+  background-color:black;
 }
 
 #start_game_btn {
@@ -71,7 +68,7 @@ background: -ms-radial-gradient(center, ellipse cover, rgba(203,96,179,1) 0%, rg
 background: radial-gradient(ellipse at center, rgba(203,96,179,1) 0%, rgba(168,0,119,1) 0%, rgba(184,44,145,1) 42%, rgba(193,70,161,1) 67%, rgba(219,54,164,1) 100%);
 color:white;
   pading: 5px;
-  width: 30%;
+  width: 40%;
   height:80px;
   border-radius: 10px;
   box-shadow: 5px 5px 5px #888888;
